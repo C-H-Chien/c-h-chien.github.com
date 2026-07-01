@@ -8,25 +8,17 @@ nav_order: 6
 calendar: true
 ---
 
-### Current On-going RA/MSc/BSc/Sem Thesis/Projects
+### Current On-going Supervision of RA/MSc/BSc/Sem Thesis/Projects
 
 **Master Thesis**
-- Jue Han 2026, *QuadEdge-VO: Stereo Visual Odometry from Quadruplet Edge COrrespondences*
-    - This thesis has led to a paper submitted to ECCV 2026.
 - Junhe Chen 2025-now, *Certifiable Multiview Edge Triangulation*
 - Tangtangfang Fang 2026-now, *Multiview Gait Analysis and Fall Detection*
 - Tianyue (Selina) Zang 2025-now, *Multiview Image-Based Localization and Mapping*
 
-**Bachelor Thesis/Projects**
-- Kana Takizawa 2025-now, *Generalized Camera Visual Odometry*
-    - This thesis (honors thesis) has led to a paper submitted to BMVC 2026. 
+**Bachelor Thesis/Projects** 
 - Zachery Mahan 2025-now, *Integration and Performance Optimization of a Structured Object Recognition Pipeline*. 
     - This project has earned an Undergraduate Teaching and Research Awards (UTRAs) from Brown University.
 - Sanithu Heengama 2025-now, *Surface Reconstruction Through Lofting from 3D Curves*
-
-**Semester Independent Study Projects**
-- Yuan Ye and Jieyi Xu 2026-now, *Multiview Fall Detection*
-- Parsa Lagmiri 2026-now, *Optimal Placement of Eight Cameras for the Fabrication of a Multi-camera Drone*
 
 **Research Asssitant (RA) Projects**
 - Ziwen Shen, 2025-now, *Accelerating 3D Curvix Through GPU Impelemtation*.
@@ -36,6 +28,8 @@ calendar: true
 Most of my mentored research projects led to a published paper. See the publication page for more information.
 
 **Master Thesis**
+- Jue Han 2026, *QuadEdge-VO: Stereo Visual Odometry from Quadruplet Edge COrrespondences*
+    - This thesis has led to a paper submitted to 3DV 2027.
 - Qiwu Zhang 2025, *Consolidating Multiview 3D Edge Sketch in Preparation for Extracting 3D Curves*
     - This thesis has led to a paper published in BMVC 2025.
 - Zhuo Wang 2025, *RVO-MIS: Robust Visual Odometry for Minimally Invasive Surgery* 
@@ -45,5 +39,11 @@ Most of my mentored research projects led to a published paper. See the publicat
 - Yilin Zheng 2024 *3D Edge Sketch*
     - This thesis has led to a paper published in WACV 2025.
 
+**Undergrad Honors Thesis**
+- Kana Takizawa 2026, *GC-VO: Generalized Camera Visual Odometry*
+    - This honors thesis has led to a paper submitted to BMVC 2026.
+
 **Semester Projects**
 - Saul Lucas Lopez 2025, *Progressive Stereo Edge Correspondence Construction*
+- Yuan Ye and Jieyi Xu 2026-now, *Multiview Fall Detection*
+- Parsa Lagmiri 2026-now, *Optimal Placement of Eight Cameras for the Fabrication of a Multi-camera Drone*
