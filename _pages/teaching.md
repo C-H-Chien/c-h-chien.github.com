@@ -23,6 +23,9 @@ calendar: true
 **Research Asssitant (RA) Projects**
 - Ziwen Shen, 2025-now, *Accelerating 3D Curvix Through GPU Impelemtation*.
 
+**Others**
+- Aavi Singh, 2026-now, *Multi-Camera Scene Coverage Optimization for a Multi-Camera Drone Design Fabrication*.
+
 ### Previous MSc/BSc/Sem Thesis
 
 Most of my mentored research projects led to a published paper. See the publication page for more information.
@@ -44,6 +47,6 @@ Most of my mentored research projects led to a published paper. See the publicat
     - This honors thesis has led to a paper submitted to BMVC 2026.
 
 **Semester Projects**
-- Saul Lucas Lopez 2025, *Progressive Stereo Edge Correspondence Construction*
-- Yuan Ye and Jieyi Xu 2026-now, *Multiview Fall Detection*
-- Parsa Lagmiri 2026-now, *Optimal Placement of Eight Cameras for the Fabrication of a Multi-camera Drone*
+- Saul Lucas Lopez, 2025, *Progressive Stereo Edge Correspondence Construction*
+- Yuan Ye and Jieyi Xu, 2026, *Multiview Fall Detection*
+- Parsa Lagmiri, 2026, *Optimal Placement of Eight Cameras for the Fabrication of a Multi-camera Drone*
