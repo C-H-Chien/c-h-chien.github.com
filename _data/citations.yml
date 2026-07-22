@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-07-22'
 papers:
   oPfnJC8AAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -34,7 +34,7 @@ papers:
     title: 'When Homotopy Continuation Meets Computer Vision: Making Multiview Geometry Tasks Practical using GPU-HC'
     year: '2024'
   oPfnJC8AAAAJ:MXK_kJrjxJIC:
-    citations: 0
+    citations: 1
     title: 'Coding visuo-spatial information in a vibrotactile belt: Perceived egocentric direction from patterns of vibration'
     year: '2025'
   oPfnJC8AAAAJ:Tyk-4Ss8FVUC:
@@ -94,7 +94,7 @@ papers:
     title: Heterogeneous implementation of a novel indirect visual odometry system
     year: '2019'
   oPfnJC8AAAAJ:ufrVoPGSRksC:
-    citations: 24
+    citations: 25
     title: GPU-based homotopy continuation for minimal problems in computer vision
     year: '2022'
   oPfnJC8AAAAJ:zYLM7Y9cAGgC:
