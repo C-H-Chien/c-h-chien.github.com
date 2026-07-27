@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-07-27'
 papers:
   oPfnJC8AAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -96,7 +96,7 @@ papers:
   oPfnJC8AAAAJ:ufrVoPGSRksC:
     citations: 25
     title: GPU-based homotopy continuation for minimal problems in computer vision
-    year: '2022'
+    year: '2021'
   oPfnJC8AAAAJ:zYLM7Y9cAGgC:
     citations: 1
     title: Mechanism for preventing premature convergence in robot localization
