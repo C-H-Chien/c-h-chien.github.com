@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-03'
 papers:
   oPfnJC8AAAAJ:0EnyYjriUFMC:
     citations: 0
     title: Geometric Correspondence Consistency in RGB-D Relative Pose Estimation
     year: '2025'
   oPfnJC8AAAAJ:2osOgNQ5qMEC:
-    citations: 6
+    citations: 7
     title: Hw/sw co-design and fpga acceleration of a feature-based visual odometry
     year: '2019'
   oPfnJC8AAAAJ:3fE2CSJIrl8C:
@@ -42,7 +42,7 @@ papers:
     title: FPGA-Based Contact Lenses Try-On System
     year: Unknown Year
   oPfnJC8AAAAJ:UeHWp8X0CEIC:
-    citations: 10
+    citations: 9
     title: Enhanced Monte Carlo localization incorporating a mechanism for preventing premature convergence
     year: '2017'
   oPfnJC8AAAAJ:W7OEmFMy1HYC:
@@ -50,15 +50,15 @@ papers:
     title: New solutions to the premature convergence problem in Monte Carlo localization
     year: '2016'
   oPfnJC8AAAAJ:WF5omc3nYNoC:
-    citations: 7
+    citations: 6
     title: Multiple master-slave FPGA architecture of a stereo visual odometry
     year: '2021'
   oPfnJC8AAAAJ:Y0pCki6q_DkC:
-    citations: 12
-    title: Global localization of Monte Carlo localization based on multi-objective particle swarm optimization
+    citations: 11
+    title: Global localization of Monte Carlo localization based on multi-objective particle swarm optimization.
     year: '2016'
   oPfnJC8AAAAJ:YsMSGLbcyi4C:
-    citations: 11
+    citations: 10
     title: Multi-objective evolutionary approach to prevent premature convergence in Monte Carlo localization
     year: '2017'
   oPfnJC8AAAAJ:Zph67rFs4hoC:
@@ -78,11 +78,11 @@ papers:
     title: Indirect visual simultaneous localization and mapping based on linear models
     year: '2019'
   oPfnJC8AAAAJ:hqOjcs7Dif8C:
-    citations: 0
+    citations: 1
     title: Recovering SLAM Tracking Lost by Trifocal Pose Estimation using GPU-HC++
     year: '2024'
   oPfnJC8AAAAJ:roLk4NBRz8UC:
-    citations: 12
+    citations: 11
     title: Minimal solutions to generalized three-view relative pose problem
     year: '2023'
   oPfnJC8AAAAJ:u-x6o8ySG0sC:
@@ -96,7 +96,7 @@ papers:
   oPfnJC8AAAAJ:ufrVoPGSRksC:
     citations: 25
     title: GPU-based homotopy continuation for minimal problems in computer vision
-    year: '2021'
+    year: '2022'
   oPfnJC8AAAAJ:zYLM7Y9cAGgC:
     citations: 1
     title: Mechanism for preventing premature convergence in robot localization
