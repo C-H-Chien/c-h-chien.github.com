@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-31'
 papers:
   oPfnJC8AAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: 3d edge sketch from multiview images
     year: '2025'
   oPfnJC8AAAAJ:9yKSN-GCB0IC:
-    citations: 10
+    citations: 11
     title: Hardware-software co-design of an image feature extraction and matching algorithm
     year: '2019'
   oPfnJC8AAAAJ:IjCSPb-OGe4C:
@@ -74,7 +74,7 @@ papers:
     title: Computationally efficient algorithm for vision-based simultaneous localization and mapping of mobile robots
     year: '2017'
   oPfnJC8AAAAJ:eQOLeE2rZwMC:
-    citations: 13
+    citations: 14
     title: Indirect visual simultaneous localization and mapping based on linear models
     year: '2019'
   oPfnJC8AAAAJ:hqOjcs7Dif8C:
